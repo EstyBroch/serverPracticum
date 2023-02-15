@@ -1,0 +1,12 @@
+D:\.Net\MyProject\MyProject.Resources\bin\Debug\net5.0\MyProject.Resources.deps.json
+D:\.Net\MyProject\MyProject.Resources\bin\Debug\net5.0\MyProject.Resources.dll
+D:\.Net\MyProject\MyProject.Resources\bin\Debug\net5.0\ref\MyProject.Resources.dll
+D:\.Net\MyProject\MyProject.Resources\bin\Debug\net5.0\MyProject.Resources.pdb
+D:\.Net\MyProject\MyProject.Resources\obj\Debug\net5.0\MyProject.Resources.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\MyProject\MyProject.Resources\obj\Debug\net5.0\MyProject.Resources.AssemblyInfoInputs.cache
+D:\.Net\MyProject\MyProject.Resources\obj\Debug\net5.0\MyProject.Resources.AssemblyInfo.cs
+D:\.Net\MyProject\MyProject.Resources\obj\Debug\net5.0\MyProject.Resources.csproj.CoreCompileInputs.cache
+D:\.Net\MyProject\MyProject.Resources\obj\Debug\net5.0\MyProject.Resources.dll
+D:\.Net\MyProject\MyProject.Resources\obj\Debug\net5.0\ref\MyProject.Resources.dll
+D:\.Net\MyProject\MyProject.Resources\obj\Debug\net5.0\MyProject.Resources.pdb
+D:\.Net\MyProject\MyProject.Resources\obj\Debug\net5.0\MyProject.Resources.csprojAssemblyReference.cache

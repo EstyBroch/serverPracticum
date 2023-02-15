@@ -1,0 +1,105 @@
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.deps.json
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.pdb
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Repositories.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Repositories.pdb
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.AssemblyReference.cache
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.AssemblyInfoInputs.cache
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.AssemblyInfo.cs
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.CoreCompileInputs.cache
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.CopyComplete
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.Mock\obj\Debug\net6.0\refint\MyProject.Mock.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.pdb
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.Mock\obj\Debug\net6.0\ref\MyProject.Mock.dll
+C:\אסתי\שני\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.deps.json
+C:\אסתי\שני\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.dll
+C:\אסתי\שני\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.pdb
+C:\אסתי\שני\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Repositories.dll
+C:\אסתי\שני\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Repositories.pdb
+C:\אסתי\שני\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.AssemblyReference.cache
+C:\אסתי\שני\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\אסתי\שני\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.AssemblyInfoInputs.cache
+C:\אסתי\שני\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.AssemblyInfo.cs
+C:\אסתי\שני\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.CoreCompileInputs.cache
+C:\אסתי\שני\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.CopyComplete
+C:\אסתי\שני\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.dll
+C:\אסתי\שני\MyProject\MyProject.Mock\obj\Debug\net6.0\refint\MyProject.Mock.dll
+C:\אסתי\שני\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.pdb
+C:\אסתי\שני\MyProject\MyProject.Mock\obj\Debug\net6.0\ref\MyProject.Mock.dll
+C:\אסתי\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.AssemblyReference.cache
+C:\אסתי\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\אסתי\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.AssemblyInfoInputs.cache
+C:\אסתי\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.AssemblyInfo.cs
+C:\אסתי\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.CoreCompileInputs.cache
+C:\אסתי\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.dll
+C:\אסתי\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\refint\MyProject.Mock.dll
+C:\אסתי\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.pdb
+C:\אסתי\dotnet\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.deps.json
+C:\אסתי\dotnet\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.dll
+C:\אסתי\dotnet\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.pdb
+C:\אסתי\dotnet\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Repositories.dll
+C:\אסתי\dotnet\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Repositories.pdb
+C:\אסתי\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.CopyComplete
+C:\אסתי\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\ref\MyProject.Mock.dll
+C:\esti\dotnet\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.deps.json
+C:\esti\dotnet\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.dll
+C:\esti\dotnet\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.pdb
+C:\esti\dotnet\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Repositories.dll
+C:\esti\dotnet\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Repositories.pdb
+C:\esti\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.AssemblyReference.cache
+C:\esti\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\esti\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.AssemblyInfoInputs.cache
+C:\esti\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.AssemblyInfo.cs
+C:\esti\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.CoreCompileInputs.cache
+C:\esti\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.CopyComplete
+C:\esti\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.dll
+C:\esti\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\refint\MyProject.Mock.dll
+C:\esti\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.pdb
+C:\esti\dotnet\MyProject\MyProject.Mock\obj\Debug\net6.0\ref\MyProject.Mock.dll
+C:\esti\פרקטיקום\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.deps.json
+C:\esti\פרקטיקום\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.dll
+C:\esti\פרקטיקום\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.pdb
+C:\esti\פרקטיקום\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Repositories.dll
+C:\esti\פרקטיקום\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Repositories.pdb
+C:\esti\פרקטיקום\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.AssemblyReference.cache
+C:\esti\פרקטיקום\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\esti\פרקטיקום\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.AssemblyInfoInputs.cache
+C:\esti\פרקטיקום\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.AssemblyInfo.cs
+C:\esti\פרקטיקום\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.CoreCompileInputs.cache
+C:\esti\פרקטיקום\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.CopyComplete
+C:\esti\פרקטיקום\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.dll
+C:\esti\פרקטיקום\MyProject\MyProject.Mock\obj\Debug\net6.0\refint\MyProject.Mock.dll
+C:\esti\פרקטיקום\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.pdb
+C:\esti\פרקטיקום\MyProject\MyProject.Mock\obj\Debug\net6.0\ref\MyProject.Mock.dll
+C:\esti\practicom\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.deps.json
+C:\esti\practicom\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.dll
+C:\esti\practicom\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.pdb
+C:\esti\practicom\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Repositories.dll
+C:\esti\practicom\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Repositories.pdb
+C:\esti\practicom\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.AssemblyReference.cache
+C:\esti\practicom\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\esti\practicom\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.AssemblyInfoInputs.cache
+C:\esti\practicom\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.AssemblyInfo.cs
+C:\esti\practicom\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.CoreCompileInputs.cache
+C:\esti\practicom\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.CopyComplete
+C:\esti\practicom\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.dll
+C:\esti\practicom\MyProject\MyProject.Mock\obj\Debug\net6.0\refint\MyProject.Mock.dll
+C:\esti\practicom\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.pdb
+C:\esti\practicom\MyProject\MyProject.Mock\obj\Debug\net6.0\ref\MyProject.Mock.dll
+C:\esti\practicom\works\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.deps.json
+C:\esti\practicom\works\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.dll
+C:\esti\practicom\works\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Mock.pdb
+C:\esti\practicom\works\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Repositories.dll
+C:\esti\practicom\works\MyProject\MyProject.Mock\bin\Debug\net6.0\MyProject.Repositories.pdb
+C:\esti\practicom\works\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.AssemblyReference.cache
+C:\esti\practicom\works\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\esti\practicom\works\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.AssemblyInfoInputs.cache
+C:\esti\practicom\works\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.AssemblyInfo.cs
+C:\esti\practicom\works\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.CoreCompileInputs.cache
+C:\esti\practicom\works\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.csproj.CopyComplete
+C:\esti\practicom\works\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.dll
+C:\esti\practicom\works\MyProject\MyProject.Mock\obj\Debug\net6.0\refint\MyProject.Mock.dll
+C:\esti\practicom\works\MyProject\MyProject.Mock\obj\Debug\net6.0\MyProject.Mock.pdb
+C:\esti\practicom\works\MyProject\MyProject.Mock\obj\Debug\net6.0\ref\MyProject.Mock.dll

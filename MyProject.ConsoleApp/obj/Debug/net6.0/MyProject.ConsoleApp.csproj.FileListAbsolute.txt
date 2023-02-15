@@ -1,0 +1,68 @@
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.ConsoleApp.exe
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.ConsoleApp.deps.json
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.ConsoleApp.runtimeconfig.json
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.ConsoleApp.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.ConsoleApp.pdb
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.Mock.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.Repositories.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.Mock.pdb
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.Repositories.pdb
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.csproj.AssemblyReference.cache
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.AssemblyInfoInputs.cache
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.AssemblyInfo.cs
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.csproj.CoreCompileInputs.cache
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.csproj.CopyComplete
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\refint\MyProject.ConsoleApp.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.pdb
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.genruntimeconfig.cache
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\ref\MyProject.ConsoleApp.dll
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.ConsoleApp.exe
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.ConsoleApp.deps.json
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.ConsoleApp.runtimeconfig.json
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.ConsoleApp.dll
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.ConsoleApp.pdb
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.Mock.dll
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.Repositories.dll
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.Mock.pdb
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\bin\Debug\net6.0\MyProject.Repositories.pdb
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.csproj.AssemblyReference.cache
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.AssemblyInfoInputs.cache
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.AssemblyInfo.cs
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.csproj.CopyComplete
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.dll
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\refint\MyProject.ConsoleApp.dll
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.pdb
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.genruntimeconfig.cache
+C:\אסתי\שני\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\ref\MyProject.ConsoleApp.dll
+C:\אסתי\dotnet\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.csproj.AssemblyReference.cache
+C:\אסתי\dotnet\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\אסתי\dotnet\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.AssemblyInfoInputs.cache
+C:\אסתי\dotnet\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.AssemblyInfo.cs
+C:\אסתי\dotnet\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\אסתי\dotnet\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.dll
+C:\אסתי\dotnet\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\refint\MyProject.ConsoleApp.dll
+C:\אסתי\dotnet\MyProject\MyProject.ConsoleApp\obj\Debug\net6.0\MyProject.ConsoleApp.pdb

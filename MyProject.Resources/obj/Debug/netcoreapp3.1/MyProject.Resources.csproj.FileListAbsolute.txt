@@ -1,0 +1,17 @@
+E:\.Net\MyProject\MyProject.Resources\bin\Debug\netcoreapp3.1\MyProject.Resources.deps.json
+E:\.Net\MyProject\MyProject.Resources\bin\Debug\netcoreapp3.1\MyProject.Resources.dll
+E:\.Net\MyProject\MyProject.Resources\bin\Debug\netcoreapp3.1\MyProject.Resources.pdb
+E:\.Net\MyProject\MyProject.Resources\obj\Debug\netcoreapp3.1\MyProject.Resources.AssemblyInfoInputs.cache
+E:\.Net\MyProject\MyProject.Resources\obj\Debug\netcoreapp3.1\MyProject.Resources.AssemblyInfo.cs
+E:\.Net\MyProject\MyProject.Resources\obj\Debug\netcoreapp3.1\MyProject.Resources.csproj.CoreCompileInputs.cache
+E:\.Net\MyProject\MyProject.Resources\obj\Debug\netcoreapp3.1\MyProject.Resources.dll
+E:\.Net\MyProject\MyProject.Resources\obj\Debug\netcoreapp3.1\MyProject.Resources.pdb
+D:\.Net\MyProject\MyProject.Resources\bin\Debug\netcoreapp3.1\MyProject.Resources.deps.json
+D:\.Net\MyProject\MyProject.Resources\bin\Debug\netcoreapp3.1\MyProject.Resources.dll
+D:\.Net\MyProject\MyProject.Resources\bin\Debug\netcoreapp3.1\MyProject.Resources.pdb
+D:\.Net\MyProject\MyProject.Resources\obj\Debug\netcoreapp3.1\MyProject.Resources.csprojAssemblyReference.cache
+D:\.Net\MyProject\MyProject.Resources\obj\Debug\netcoreapp3.1\MyProject.Resources.AssemblyInfoInputs.cache
+D:\.Net\MyProject\MyProject.Resources\obj\Debug\netcoreapp3.1\MyProject.Resources.AssemblyInfo.cs
+D:\.Net\MyProject\MyProject.Resources\obj\Debug\netcoreapp3.1\MyProject.Resources.csproj.CoreCompileInputs.cache
+D:\.Net\MyProject\MyProject.Resources\obj\Debug\netcoreapp3.1\MyProject.Resources.dll
+D:\.Net\MyProject\MyProject.Resources\obj\Debug\netcoreapp3.1\MyProject.Resources.pdb

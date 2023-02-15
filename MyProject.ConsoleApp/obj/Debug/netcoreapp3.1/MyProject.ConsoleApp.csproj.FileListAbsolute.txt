@@ -1,0 +1,90 @@
+D:\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.exe
+D:\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.deps.json
+D:\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.runtimeconfig.json
+D:\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.runtimeconfig.dev.json
+D:\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
+D:\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
+D:\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Mock.dll
+D:\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Repositories.dll
+D:\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Mock.pdb
+D:\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+D:\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csprojAssemblyReference.cache
+D:\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.AssemblyInfoInputs.cache
+D:\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.AssemblyInfo.cs
+D:\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.CopyComplete
+D:\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
+D:\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
+D:\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.genruntimeconfig.cache
+Y:\Groups\1\אנגל שושנה\דוטנט\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.exe
+Y:\Groups\1\אנגל שושנה\דוטנט\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.deps.json
+Y:\Groups\1\אנגל שושנה\דוטנט\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.runtimeconfig.json
+Y:\Groups\1\אנגל שושנה\דוטנט\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.runtimeconfig.dev.json
+Y:\Groups\1\אנגל שושנה\דוטנט\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
+Y:\Groups\1\אנגל שושנה\דוטנט\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
+Y:\Groups\1\אנגל שושנה\דוטנט\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Mock.dll
+Y:\Groups\1\אנגל שושנה\דוטנט\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Repositories.dll
+Y:\Groups\1\אנגל שושנה\דוטנט\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Mock.pdb
+Y:\Groups\1\אנגל שושנה\דוטנט\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+Y:\Groups\1\אנגל שושנה\דוטנט\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.AssemblyReference.cache
+Y:\Groups\1\אנגל שושנה\דוטנט\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.AssemblyInfoInputs.cache
+Y:\Groups\1\אנגל שושנה\דוטנט\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.AssemblyInfo.cs
+Y:\Groups\1\אנגל שושנה\דוטנט\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.CoreCompileInputs.cache
+Y:\Groups\1\אנגל שושנה\דוטנט\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.CopyComplete
+Y:\Groups\1\אנגל שושנה\דוטנט\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
+Y:\Groups\1\אנגל שושנה\דוטנט\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
+Y:\Groups\1\אנגל שושנה\דוטנט\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.genruntimeconfig.cache
+C:\Users\user1\Desktop\שני\שנה ב\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.exe
+C:\Users\user1\Desktop\שני\שנה ב\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.deps.json
+C:\Users\user1\Desktop\שני\שנה ב\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.runtimeconfig.json
+C:\Users\user1\Desktop\שני\שנה ב\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.runtimeconfig.dev.json
+C:\Users\user1\Desktop\שני\שנה ב\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
+C:\Users\user1\Desktop\שני\שנה ב\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
+C:\Users\user1\Desktop\שני\שנה ב\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Mock.dll
+C:\Users\user1\Desktop\שני\שנה ב\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Repositories.dll
+C:\Users\user1\Desktop\שני\שנה ב\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Mock.pdb
+C:\Users\user1\Desktop\שני\שנה ב\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+C:\Users\user1\Desktop\שני\שנה ב\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\שני\שנה ב\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\שני\שנה ב\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.AssemblyInfo.cs
+C:\Users\user1\Desktop\שני\שנה ב\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\שני\שנה ב\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.CopyComplete
+C:\Users\user1\Desktop\שני\שנה ב\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
+C:\Users\user1\Desktop\שני\שנה ב\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
+C:\Users\user1\Desktop\שני\שנה ב\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.genruntimeconfig.cache
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.exe
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.deps.json
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.runtimeconfig.json
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.runtimeconfig.dev.json
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Mock.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Repositories.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Mock.pdb
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csprojAssemblyReference.cache
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.AssemblyInfoInputs.cache
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.AssemblyInfo.cs
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.CoreCompileInputs.cache
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.CopyComplete
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
+Y:\Groups\1\אנגל שושנה\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.genruntimeconfig.cache
+E:\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.exe
+E:\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.deps.json
+E:\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.runtimeconfig.json
+E:\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.runtimeconfig.dev.json
+E:\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
+E:\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
+E:\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Mock.dll
+E:\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Repositories.dll
+E:\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Mock.pdb
+E:\.Net\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+E:\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csprojAssemblyReference.cache
+E:\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.AssemblyInfoInputs.cache
+E:\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.AssemblyInfo.cs
+E:\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.CopyComplete
+E:\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
+E:\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
+E:\.Net\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.genruntimeconfig.cache
