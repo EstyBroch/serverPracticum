@@ -10,8 +10,7 @@ namespace MyProject.WebAPI.Models
         public DateTime DateOfBirth { get; set; }
         public string IdNumber { get; set; }
         public int? IdFather { get; set; }
-        public UserModel? Father { get; set; }
         public int? IdMother { get; set; }
-        public UserModel? Mother { get; set; }
+      
     }
 }
