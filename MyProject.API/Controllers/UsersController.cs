@@ -25,11 +25,11 @@ namespace MyProject.WebAPI.Controllers
             return await _userService.GetAllAsync();
         }
 
-        //[HttpGet("{id}")]
-        //public async Task<UserDTO> Get(int id)
-        //{
-        //    return await _userService.GetByIdAsync(id);
-        //}
+        [HttpGet("getById{id}")]
+        public async Task<UserDTO> Get(int id)
+        {
+            return await _userService.GetByIdAsync(id);
+        }
 
         [HttpGet("{idNumber}")]
         public async Task<UserDTO> Get(string idNumber)

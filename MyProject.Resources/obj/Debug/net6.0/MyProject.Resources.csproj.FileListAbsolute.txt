@@ -94,3 +94,15 @@ C:\esti\practicom\works\MyProject\MyProject.Resources\obj\Debug\net6.0\MyProject
 C:\esti\practicom\works\MyProject\MyProject.Resources\obj\Debug\net6.0\refint\MyProject.Resources.dll
 C:\esti\practicom\works\MyProject\MyProject.Resources\obj\Debug\net6.0\MyProject.Resources.pdb
 C:\esti\practicom\works\MyProject\MyProject.Resources\obj\Debug\net6.0\ref\MyProject.Resources.dll
+C:\esti\saveUsersAndChildren\server\MyProject.Resources\bin\Debug\net6.0\MyProject.Resources.deps.json
+C:\esti\saveUsersAndChildren\server\MyProject.Resources\bin\Debug\net6.0\MyProject.Resources.dll
+C:\esti\saveUsersAndChildren\server\MyProject.Resources\bin\Debug\net6.0\MyProject.Resources.pdb
+C:\esti\saveUsersAndChildren\server\MyProject.Resources\obj\Debug\net6.0\MyProject.Resources.csproj.AssemblyReference.cache
+C:\esti\saveUsersAndChildren\server\MyProject.Resources\obj\Debug\net6.0\MyProject.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\esti\saveUsersAndChildren\server\MyProject.Resources\obj\Debug\net6.0\MyProject.Resources.AssemblyInfoInputs.cache
+C:\esti\saveUsersAndChildren\server\MyProject.Resources\obj\Debug\net6.0\MyProject.Resources.AssemblyInfo.cs
+C:\esti\saveUsersAndChildren\server\MyProject.Resources\obj\Debug\net6.0\MyProject.Resources.csproj.CoreCompileInputs.cache
+C:\esti\saveUsersAndChildren\server\MyProject.Resources\obj\Debug\net6.0\MyProject.Resources.dll
+C:\esti\saveUsersAndChildren\server\MyProject.Resources\obj\Debug\net6.0\refint\MyProject.Resources.dll
+C:\esti\saveUsersAndChildren\server\MyProject.Resources\obj\Debug\net6.0\MyProject.Resources.pdb
+C:\esti\saveUsersAndChildren\server\MyProject.Resources\obj\Debug\net6.0\ref\MyProject.Resources.dll

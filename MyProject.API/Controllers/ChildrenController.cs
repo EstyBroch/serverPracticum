@@ -12,6 +12,7 @@ namespace MyProject.WebAPI.Controllers
     [ApiController]
     public class ChildrenController : ControllerBase
     {
+
         private readonly IChildService _childService;
 
         public ChildrenController(IChildService childService)
@@ -25,25 +26,21 @@ namespace MyProject.WebAPI.Controllers
             return await _childService.GetAllAsync();
         }
 
-        //[HttpGet("{id}")]
-        //public async Task<ChildDTO> Get(int id)
-        //{
-        //    return await _childService.GetByIdAsync(id);
-        //}
+       
         [HttpGet("{idNumber}")]
         public async Task<ChildDTO> Get(string idNumber)
         {
             return await _childService.GetByIdNumberAsync(idNumber);
         }
 
-        [HttpPost]//add
+        [HttpPost]
         public async Task<ChildDTO> Post([FromBody] ChildModel model)
         {
             return await _childService.AddAsync(new ChildDTO() { Name = model.Name, DateOfBirth = model.DateOfBirth,IdNumber=model.IdNumber
             ,IdFather= model.IdFather,IdMother= model.IdMother});
         }
 
-        [HttpPut("{id}")]//update
+        [HttpPut("{id}")]
         public async Task<ChildDTO> Put(int id, [FromBody] ChildModel model)
         {
             ChildDTO r = new ChildDTO() { Id = id, Name = model.Name,

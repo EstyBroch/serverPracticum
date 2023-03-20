@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mfwNBEQkZst29ENgZiSSpdYbzfJ53rYCpopP8MSaiQ/pc67QfGw88Lz49/Bbhs6eTJaVqYL7NE2Ea99iQ6T3CA==",
+  "dgSpecHash": "cNwkR/gZAeu+li3RdrZ6iipYf/LHZy40Utb7bUI47NiE3AB47eiNNJd/QVgH26Jb3NYMnOeH6VrBrtfotBdiSw==",
   "success": true,
-  "projectFilePath": "C:\\esti\\practicom\\works\\MyProject\\MyProject.Resources\\MyProject.Resources.csproj",
+  "projectFilePath": "C:\\esti\\saveUsersAndChildren\\server\\MyProject.Resources\\MyProject.Resources.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

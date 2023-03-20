@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\esti\\practicom\\works\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj": {}
+    "C:\\esti\\saveUsersAndChildren\\server\\MyProject.Repositories\\MyProject.Repositories.csproj": {}
   },
   "projects": {
-    "C:\\esti\\practicom\\works\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj": {
+    "C:\\esti\\saveUsersAndChildren\\server\\MyProject.Repositories\\MyProject.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\esti\\practicom\\works\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj",
+        "projectUniqueName": "C:\\esti\\saveUsersAndChildren\\server\\MyProject.Repositories\\MyProject.Repositories.csproj",
         "projectName": "MyProject.Repositories",
-        "projectPath": "C:\\esti\\practicom\\works\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj",
+        "projectPath": "C:\\esti\\saveUsersAndChildren\\server\\MyProject.Repositories\\MyProject.Repositories.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\esti\\practicom\\works\\MyProject\\MyProject.Repositories\\obj\\",
+        "outputPath": "C:\\esti\\saveUsersAndChildren\\server\\MyProject.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
